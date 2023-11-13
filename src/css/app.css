@@ -23,7 +23,7 @@ img {
 .templatePhoto img {
     object-fit: cover;
     border: 2px solid;
-    /* border: 2px solid red; */
+    border: 2px solid red;
 }
 
 .sizeLarge {
